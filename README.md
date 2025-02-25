@@ -1,10 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Casmil Ahao Stephen
+
+I am currently a student at Mahanaim University, and my primary focus is on computer programming. Mahanaim University provides a well rounded technology education, with courses that include the computer programming that I am learning, and also diploma courses in Information Communication Technology. I am working on developing my skills in the computer science field within the environment that Mahanaim University provides.
 ===========================================================================================================================================
 
-Web Developer
+My Current goals/interests
 -------------
+My current learning goals center on building a robust foundation in core programming concepts and practical software development skills, while also expanding my technological proficiency to encompass broader areas like networking and databases. Aligned with Mahanaim University's holistic approach, I aim to integrate ethical considerations and strong values into my work, focusing on problem-solving, teamwork, and ultimately, applying my skills to create impactful solutions that address real-world challenges.
 
+#  Technologies/Languages am studying 
 In the realm of web development, my current studies focus on mastering the fundamental languages of HTML, CSS, and JavaScript, which form the core of front-end development. I'm also exploring back-end technologies, potentially including Node.js for server-side JavaScript, and SQL for database management. Additionally, I'm gaining familiarity with modern web development frameworks and libraries, such as React or Angular, to build dynamic and interactive web applications, with a strong emphasis on understanding how to create user-friendly and ethically responsible online experiences.
+
+# My current coursework
+My current coursework at Mahanaim University, as a computer programming student focused on web development, encompasses a blend of core programming languages like JavaScript, essential web technologies including HTML, CSS, and frameworks like React, and back-end development with Node.js and SQL. I'm also delving into database management, software development fundamentals with Git version control, and potentially foundational ICT concepts. Crucially, aligning with the university's holistic approach, ethical considerations in technology are woven throughout my studies, ensuring I develop both technical proficiency and a strong sense of responsibility.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [casmilahao2013c@gmail.com](mailto:casmilahao2013c@gmail.com)
