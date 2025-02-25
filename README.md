@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Casmil Ahao Stephen
-
-I am currently a student at Mahanaim University, and my primary focus is on computer programming. Mahanaim University provides a well rounded technology education, with courses that include the computer programming that I am learning, and also diploma courses in Information Communication Technology. I am working on developing my skills in the computer science field within the environment that Mahanaim University provides.
 ===========================================================================================================================================
+I am currently a student at Mahanaim University, and my primary focus is on computer programming. Mahanaim University provides a well rounded technology education, with courses that include the computer programming that I am learning, and also diploma courses in Information Communication Technology. I am working on developing my skills in the computer science field within the environment that Mahanaim University provides.
 
 My Current goals/interests
 -------------
